@@ -1,13 +1,4 @@
-##########################################################
-##                       Group Members                    #
-#                                                         #
-##                  1. AKANDE Oluwatosin Adetoye          #
-##                  2. Ange Clement Akazan                #
-##                  3. Jeanne NIYONTEZE                   #
-##                  4. Redempta Blandine ISHIME           #
-##                  5. Enock MWIZERWA                     #
-##                  6. Mahamat Azibert ABDELWAHAB         #
-###########################################################
+
 ###################---------------------------###################
 #################                                 ###############
 #                       Time Series Analysis                    #
