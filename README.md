@@ -1,2 +1,2 @@
 # R-codes
-Some of my programming done in R language
+Some of my programming work done in R language
